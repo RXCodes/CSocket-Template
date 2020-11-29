@@ -1,5 +1,5 @@
 {
-  "name": "CSocket Application",
+  "name": "csocket-application",
   "version": "0.0.1",
   "description": "Socket.io / Node.js compiled using CSocket",
   "dependencies": {
